@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Anurag  
 
-🎓 CSIT Student | 💻 Java Developer | 🔍 Exploring Backend & Full Stack  
-- 🌱 Currently learning **Spring Boot & Advanced Java**  
+🎓 CSIT Student | 💻 Java Developer | 🔍 Specializing Backend & Full Stack  
+- 🌱 Concentrating on **Spring Boot**, **Spring Security**, and **Advanced Java** to design robust and scalable applications  
 - 💡 Interested in solving real-world problems with code  
 - 📈 Preparing for placements (DSA + Projects)  
 - 📂 Check out my pinned projects below!  
