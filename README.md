@@ -6,5 +6,7 @@
 - 📈 Preparing for placements (DSA + Projects)  
 - 📂 Check out my pinned projects below!
 - 🛠️ Currently working on a **Full-Stack** project addressing real-world problem-solving
+- 🤖 Exploring **Spring AI** to integrate intelligent features into modern Java applications
 
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/anurag-mishra-49a084260/) | [Email](mishraanurag3244@gmail.com)
+
